@@ -1,2 +1,2 @@
-# edc-tech-recruitment
+# eDC Tech recruitment
 Resources for eDC Tech recruitment
